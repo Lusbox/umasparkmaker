@@ -55,8 +55,9 @@ body {
 }
 
 .top-image {
-    width: 80%; /* Make the top images smaller */
+    width: 50%; /* Make the top images smaller */
     height: auto;
+    align-items: center;
     object-fit: contain;
 }
 
