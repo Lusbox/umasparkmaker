@@ -1,0 +1,176 @@
+[
+    {
+        "alt": "Haru Urara",
+        "image": "assets/images/cards/haruurara.png",
+        "rarity": "SSR",
+        "type": "Guts"
+    },
+    {
+        "alt": "Mejiro McQueen",
+        "image": "assets/images/cards/mejiromcqueen.png",
+        "rarity": "SSR",
+        "type": "Stamina"
+    },
+    {
+        "alt": "Air Shakur",
+        "image": "assets/images/cards/airshakur.png",
+        "rarity": "SSR",
+        "type": "Stamina"
+    },
+    {
+        "alt": "Biko Pegasus",
+        "image": "assets/images/cards/bikopegasus.png",
+        "rarity": "SSR",
+        "type": "Stamina"
+    },
+    {
+        "alt": "El Condor Pasa",
+        "image": "assets/images/cards/elcondorpasa.png",
+        "rarity": "SSR",
+        "type": "Stamina"
+    },
+    {
+        "alt": "Fine Motion",
+        "image": "assets/images/cards/finemotion.png",
+        "rarity": "SSR",
+        "type": "Stamina"
+    },
+    {
+        "alt": "Gold City",
+        "image": "assets/images/cards/goldcity.png",
+        "rarity": "SSR",
+        "type": "Stamina"
+    },
+    {
+        "alt": "Gold Ship",
+        "image": "assets/images/cards/goldship.png",
+        "rarity": "SSR",
+        "type": "Stamina"
+    },
+    {
+        "alt": "Grass Wonder",
+        "image": "assets/images/cards/grasswonder.png",
+        "rarity": "SSR",
+        "type": "Stamina"
+    },
+    {
+        "alt": "Ines Fujin",
+        "image": "assets/images/cards/inesfujin.png",
+        "rarity": "SSR",
+        "type": "Stamina"
+    },
+    {
+        "alt": "Kitasan Black",
+        "image": "assets/images/cards/kitasan.png",
+        "rarity": "SSR",
+        "type": "Stamina"
+    },
+    {
+        "alt": "Matikanetannhauser",
+        "image": "assets/images/cards/Matikanetannhauser.png",
+        "rarity": "SSR",
+        "type": "Stamina"
+    },
+    {
+        "alt": "Mejiro Palmer",
+        "image": "assets/images/cards/mejiropalmer.png",
+        "rarity": "SSR",
+        "type": "Stamina"
+    },
+    {
+        "alt": "Nishino Flower",
+        "image": "assets/images/cards/nishinoflower.png",
+        "rarity": "SSR",
+        "type": "Stamina"
+    },
+    {
+        "alt": "Oguri Cap",
+        "image": "assets/images/cards/oguricap.png",
+        "rarity": "SSR",
+        "type": "Stamina"
+    },
+    {
+        "alt": "Rice Shower",
+        "image": "assets/images/cards/riceshower.png",
+        "rarity": "SSR",
+        "type": "Stamina"
+    },
+    {
+        "alt": "Sakura Bakushin O",
+        "image": "assets/images/cards/sakurabakushin.png",
+        "rarity": "SSR",
+        "type": "Stamina"
+    },
+    {
+        "alt": "Satono",
+        "image": "assets/images/cards/satono.png",
+        "rarity": "SSR",
+        "type": "Stamina"
+    },
+    {
+        "alt": "Seiun Sky",
+        "image": "assets/images/cards/seiunsky.png",
+        "rarity": "SSR",
+        "type": "Stamina"
+    },
+    {
+        "alt": "Silence Suzuka",
+        "image": "assets/images/cards/silencesuzuka.png",
+        "rarity": "SSR",
+        "type": "Stamina"
+    },
+    {
+        "alt": "Smart Falcon",
+        "image": "assets/images/cards/smartfalcon.png",
+        "rarity": "SSR",
+        "type": "Stamina"
+    },
+    {
+        "alt": "Special Week",
+        "image": "assets/images/cards/specialweek.png",
+        "rarity": "SSR",
+        "type": "Stamina"
+    },
+    {
+        "alt": "Special Week Event",
+        "image": "assets/images/cards/specialweekevent.png",
+        "rarity": "SSR",
+        "type": "Stamina"
+    },
+    {
+        "alt": "Super Creek",
+        "image": "assets/images/cards/supercreek.png",
+        "rarity": "SSR",
+        "type": "Stamina"
+    },
+    {
+        "alt": "Tamamo Cross",
+        "image": "assets/images/cards/tamamocross.png",
+        "rarity": "SSR",
+        "type": "Stamina"
+    },
+    {
+        "alt": "Tokai Teio",
+        "image": "assets/images/cards/tokaiteio.png",
+        "rarity": "SSR",
+        "type": "Stamina"
+    },
+    {
+        "alt": "Twin Turbo",
+        "image": "assets/images/cards/twinturbo.png",
+        "rarity": "SSR",
+        "type": "Stamina"
+    },
+    {
+        "alt": "Vodka",
+        "image": "assets/images/cards/vodka.png",
+        "rarity": "SSR",
+        "type": "Stamina"
+    },
+    {
+        "alt": "Winning Ticket",
+        "image": "assets/images/cards/winningticket.png",
+        "rarity": "SSR",
+        "type": "Stamina"
+    }
+]

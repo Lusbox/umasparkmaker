@@ -1,52 +1,97 @@
-const images = {
-    filter1: {
-        static1: [
-            "image1a.jpg",
-            "image2a.jpg"
-        ],
-        static2: [
-            "image3a.jpg",
-            "image4a.jpg"
-        ]
-    },
-    filter2: {
-        static1: [
-            "image1b.jpg",
-            "image2b.jpg"
-        ],
-        static2: [
-            "image3b.jpg",
-            "image4b.jpg"
-        ]
-    },
-    filter3: {
-        static1: [
-            "image1c.jpg",
-            "image2c.jpg"
-        ],
-        static2: [
-            "image3c.jpg",
-            "image4c.jpg"
-        ]
-    }
-};
+document.addEventListener('DOMContentLoaded', function() {
+    // Fetch JSON data
+    fetch('assets/data.json')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Failed to fetch JSON file');
+            }
+            return response.json();
+        })
+        .then(data => {
+            const imageContainer = document.getElementById('image-container'); // Container for original images (frame4)
 
-function applyFilter(filter) {
-    // Clear the previous dynamic images in both frames
-    document.querySelectorAll('.dynamic-images').forEach(container => {
-        container.innerHTML = '';
+            // Loop through each item in the JSON data
+            data.forEach(item => {
+                // Create the image element
+                const img = document.createElement('img');
+                img.src = item.image;       // Image source from JSON
+                img.alt = item.alt;         // Image alt text from JSON
+                img.classList.add('card-image');  // Add 'card-image' class for styling
+
+                // Append the image to the original container (frame4)
+                imageContainer.appendChild(img);
+
+                // Add event listeners to handle clicks for moving and removing images
+                addImageEventListeners(img);
+            });
+        })
+        .catch(error => {
+            console.error('Error loading the JSON data:', error);
+        });
+});
+
+// Function to add event listeners to images
+function addImageEventListeners(image) {
+    // Store the original image container (frame4)
+    const originalParent = image.parentNode;
+
+    // Left-click event to move image to frame2
+    image.addEventListener('click', function(event) {
+        if (event.button === 0) { // Left-click
+
+            if (this.parentNode === originalParent) {
+                // Clone the image and move to frame2
+                const clonedImage = this.cloneNode(true);
+                document.getElementById('dynamic-images-1').appendChild(clonedImage);
+                addCloneEventListeners(clonedImage);  // Attach event listeners to the cloned image
+            } else {
+                // If already in frame2, remove the cloned image
+                this.remove();
+            }
+        }
     });
 
-    const filterImages = images[filter];
+    // Right-click event to move image to frame3
+    image.addEventListener('contextmenu', function(event) {
+        event.preventDefault(); // Prevent right-click menu
 
-    // Loop through both static images and load the corresponding dynamic images
-    ['static1', 'static2'].forEach((staticImage, index) => {
-        const dynamicContainer = document.getElementById(`dynamic-images-${index + 1}`);
-        filterImages[staticImage].forEach(image => {
-            const imgElement = document.createElement('img');
-            imgElement.src = image;
-            imgElement.alt = `Dynamic Image: ${image}`;
-            dynamicContainer.appendChild(imgElement);
+        if (this.parentNode === originalParent) {
+            // Clone the image and move to frame3
+            const clonedImage = this.cloneNode(true);
+            document.getElementById('dynamic-images-2').appendChild(clonedImage);
+            addCloneEventListeners(clonedImage);  // Attach event listeners to the cloned image
+        } else {
+            // If already in frame3, remove the cloned image
+            this.remove();
+        }
+    });
+}
+
+// Function to add event listeners to cloned images in frame2/frame3
+function addCloneEventListeners(clonedImage) {
+    clonedImage.addEventListener('click', function() {
+        // Remove the cloned image when clicked
+        this.remove();
+    });
+}
+
+// Resize images dynamically when the window is resized or images are added
+window.addEventListener('resize', adjustImageSize);
+
+// Function to adjust the size of images based on container width
+function adjustImageSize() {
+    const containers = [document.getElementById('dynamic-images-1'), document.getElementById('dynamic-images-2')];
+
+    containers.forEach(container => {
+        const images = container.querySelectorAll('img');
+        const containerWidth = container.clientWidth;
+
+        // Calculate the number of images per row (approx.)
+        const imagesPerRow = Math.floor(containerWidth / 150); // 150px as a base width per image (adjust as needed)
+        const imageWidth = (containerWidth / imagesPerRow) - 10; // Adjust width based on images per row
+
+        images.forEach(image => {
+            image.style.width = `${imageWidth}px`; // Set the width of each image
         });
     });
 }
