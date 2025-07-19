@@ -1,4 +1,4 @@
-# Umamusume Spark Maker
+## Umamusume Spark Maker
 
 ***
 
