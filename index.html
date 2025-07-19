@@ -8,15 +8,25 @@
 </head>
 <body>
     <h1 class="page-title">Umamusume Spark Maker</h1>
+    <h2 class="sub-title">Left click to add new, right click dupe. Left click to remove</h2>
+    
+
     <div class="container">
         <div class="frame1">
             <div class="top-images">
                 <div class="top-image-container">
                     <img src="assets/images/utx_txt_rarity_03.png" alt="ssr1" class="top-image1">
                 </div>
+                <div class="total-percentage">
+                    <span id="number">0/200</span>
+                    <span id="percentage">0%</span><br>
+                </div>
+
                 <div class="top-image-container">
                     <img src="assets/images/supportuncap.png" alt="ssr2" class="top-image2">
                 </div>
+                
+                
             </div>
         
 
@@ -25,16 +35,18 @@
                     <div class="dynamic-images" id="dynamic-images-1">
                     </div>
                 </div>
-
+                <hr class="divider">
                 <div class="frame3">
                     <div class="dynamic-images" id="dynamic-images-2">
                     </div>
                 </div>
+
+                
             </div>
         </div>
-    
-    
+       
         <div class="frame4">
+            <input type="text" placeholder="Enter Character Name.." class="search" id="search-box">
             <div id="image-container" class="frame">
             </div>
         </div>
