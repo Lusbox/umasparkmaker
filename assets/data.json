@@ -175,10 +175,14 @@
     },
     {
         "name": "Nishino Flower (Lifting Your Spirits)",
-        "image": "assets/images/cards/NishinoFlower(LiftingYourSpirits).png"
+        "image": "assets/images/cards/NishinoFlower(LiftingYourSpirits).png",
+        "rarity": "SSR",
+        "type": "Stamina"
     },
     {
         "name": "Yukino Bijin",
-        "image": "assets/images/cards/YukinoBijin.png"
+        "image": "assets/images/cards/YukinoBijin.png",
+        "rarity": "SSR",
+        "type": "Stamina"
     }
 ]
