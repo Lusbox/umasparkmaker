@@ -174,14 +174,14 @@
         "type": "Stamina"
     },
     {
-        "name": "Nishino Flower (Lifting Your Spirits)",
-        "image": "assets/images/cards/NishinoFlower(LiftingYourSpirits).png",
+        "name": "Yukino Bijin",
+        "image": "assets/images/cards/YukinoBijin.png",
         "rarity": "SSR",
         "type": "Stamina"
     },
     {
-        "name": "Yukino Bijin",
-        "image": "assets/images/cards/YukinoBijin.png",
+        "name": "Yaeno Muteki (Fiery Discipline)",
+        "image": "assets/images/cards/Yaeno Muteki (Fiery Discipline).png",
         "rarity": "SSR",
         "type": "Stamina"
     }
