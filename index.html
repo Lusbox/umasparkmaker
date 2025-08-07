@@ -9,8 +9,7 @@
 <body>
     <h1 class="page-title">Umamusume Spark Maker</h1>
     <h2 class="sub-title">Left click to add new, right click dupe. Left click to remove</h2>
-    
-
+   
     <div class="container">
         <div class="frame1">
             <div class="top-images">
@@ -23,9 +22,8 @@
                 </div>
                 <div class="top-image-container">
                     <img src="assets/images/supportuncap.png" alt="ssr2" class="top-image2">
-                </div> 
+                </div>
             </div>
-
             <div class="bottom-container">
                 <div class="frame2">
                     <div class="dynamic-images" id="dynamic-images-1">
@@ -35,17 +33,32 @@
                 <div class="frame3">
                     <div class="dynamic-images" id="dynamic-images-2">
                     </div>
-                </div>   
+                </div>  
             </div>
         </div>
        
-        <div class="frame4">
-            <input type="text" placeholder="Enter Character Name.." class="search" id="search-box">
-            <div id="image-container" class="frame">
+        <div class="frame-container">
+            <!-- Toggle buttons -->
+            <div class="toggle-buttons">
+                <button id="cards-btn" class="toggle-btn active">Cards</button>
+                <button id="uma-btn" class="toggle-btn">Character</button>
+            </div>
+            
+            <!-- Cards frame (original frame4) -->
+            <div class="frame4" id="cards-frame">
+                <input type="text" placeholder="Enter Character Name.." class="search" id="search-box">
+                <div id="image-container" class="frame">
+                </div>
+            </div>
+            
+            <!-- UMA frame (new frame) -->
+            <div class="frame4" id="uma-frame" style="display: none;">
+                <input type="text" placeholder="Enter Character Name.." class="search" id="search-box-uma">
+                <div id="image-container-uma" class="frame">
+                </div>
             </div>
         </div>
     </div>
-
     <script src="scripts.js"></script>
 </body>
 </html>
