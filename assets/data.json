@@ -184,5 +184,11 @@
         "image": "assets/images/cards/Yaeno Muteki (Fiery Discipline).png",
         "rarity": "SSR",
         "type": "Stamina"
+    },
+    {
+        "name": "Tazuna Hayakawa",
+        "image": "assets/images/cards/Tazuna Hayakawa.png",
+        "rarity": "SSR",
+        "type": "Stamina"
     }
 ]
