@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', function() {
     umaBtn.addEventListener('click', () => showFrame('uma'));
 
     // Load JSON data for cards
-    fetch('assets/data.json')
+    fetch('support_cards.json')
         .then(response => {
             if (!response.ok) {
                 throw new Error('Failed to fetch JSON file');
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         data.forEach(item => {
             const img = document.createElement('img');
-            img.src = item.image;
+            img.src = item.local_image;
             img.alt = item.alt;
             img.classList.add('card-image');
             img.dataset.name = item.name;

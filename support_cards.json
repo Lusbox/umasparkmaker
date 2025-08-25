@@ -1,0 +1,1568 @@
+[
+  {
+    "name": "SSR Silence Suzuka (Beyond This Shining Moment)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30002_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Silence_Suzuka_(Beyond_This_Shining_Moment)",
+    "local_image": "images/001_SSR Silence Suzuka (Beyond This Shining Moment).webp"
+  },
+  {
+    "name": "SSR Tokai Teio (Dream Big!)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30003_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Tokai_Teio_(Dream_Big!)",
+    "local_image": "images/002_SSR Tokai Teio (Dream Big!).webp"
+  },
+  {
+    "name": "SSR Gold City (Run(my)way)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30014_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Gold_City_(Run(my)way)",
+    "local_image": "images/003_SSR Gold City (Run(my)way).webp"
+  },
+  {
+    "name": "SSR Sakura Bakushin O (Eat Fast! Yum Fast!)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30015_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Sakura_Bakushin_O_(Eat_Fast!_Yum_Fast!)",
+    "local_image": "images/004_SSR Sakura Bakushin O (Eat Fast! Yum Fast!).webp"
+  },
+  {
+    "name": "SSR Nishino Flower (Even the Littlest Bud)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30018_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Nishino_Flower_(Even_the_Littlest_Bud)",
+    "local_image": "images/005_SSR Nishino Flower (Even the Littlest Bud).webp"
+  },
+  {
+    "name": "SSR Biko Pegasus (Double Carrot Punch!)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30020_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Biko_Pegasus_(Double_Carrot_Punch!)",
+    "local_image": "images/006_SSR Biko Pegasus (Double Carrot Punch!).webp"
+  },
+  {
+    "name": "SSR Special Week (The Setting Sun and Rising Stars)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30025_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Special_Week_(The_Setting_Sun_and_Rising_Stars)",
+    "local_image": "images/007_SSR Special Week (The Setting Sun and Rising Stars).webp"
+  },
+  {
+    "name": "SSR Twin Turbo (Turbo Booooost!)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30026_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Twin_Turbo_(Turbo_Booooost!)",
+    "local_image": "images/008_SSR Twin Turbo (Turbo Booooost!).webp"
+  },
+  {
+    "name": "SSR Kitasan Black (Fire at My Heels)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30028_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Kitasan_Black_(Fire_at_My_Heels)",
+    "local_image": "images/009_SSR Kitasan Black (Fire at My Heels).webp"
+  },
+  {
+    "name": "SSR Kawakami Princess (Princess Bride)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30039_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Kawakami_Princess_(Princess_Bride)",
+    "local_image": "images/010_SSR Kawakami Princess (Princess Bride).webp"
+  },
+  {
+    "name": "SSR Narita Brian (Two Pieces)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30044_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Narita_Brian_(Two_Pieces)",
+    "local_image": "images/011_SSR Narita Brian (Two Pieces).webp"
+  },
+  {
+    "name": "SSR Sweep Tosho (It's All Mine!)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30045_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Sweep_Tosho_(It%27s_All_Mine!)",
+    "local_image": "images/012_SSR Sweep Tosho (It's All Mine!).webp"
+  },
+  {
+    "name": "SSR Taiki Shuttle (Hands up, crook!)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30053_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Taiki_Shuttle_(Hands_up,_crook!)",
+    "local_image": "images/013_SSR Taiki Shuttle (Hands up, crook!).webp"
+  },
+  {
+    "name": "SSR Gold Ship (That Time I Became the Strongest)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30057_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Gold_Ship_(That_Time_I_Became_the_Strongest)",
+    "local_image": "images/014_SSR Gold Ship (That Time I Became the Strongest).webp"
+  },
+  {
+    "name": "SSR Zenno Rob Roy (魔力授かりし英雄)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30065_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Zenno_Rob_Roy_(%E9%AD%94%E5%8A%9B%E6%8E%88%E3%81%8B%E3%82%8A%E3%81%97%E8%8B%B1%E9%9B%84)",
+    "local_image": "images/015_SSR Zenno Rob Roy (魔力授かりし英雄).webp"
+  },
+  {
+    "name": "SSR Mayano Top Gun (フォーメーション：PARTY)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30072_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Mayano_Top_Gun_(%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%9APARTY)",
+    "local_image": "images/016_SSR Mayano Top Gun (フォーメーション：PARTY).webp"
+  },
+  {
+    "name": "SSR Silence Suzuka (まだ見ぬ景色を求めて)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30076_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Silence_Suzuka_(%E3%81%BE%E3%81%A0%E8%A6%8B%E3%81%AC%E6%99%AF%E8%89%B2%E3%82%92%E6%B1%82%E3%82%81%E3%81%A6)",
+    "local_image": "images/017_SSR Silence Suzuka (まだ見ぬ景色を求めて).webp"
+  },
+  {
+    "name": "SSR Matikanefukukitaru (袖振り合えば福となる♪)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30078_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Matikanefukukitaru_(%E8%A2%96%E6%8C%AF%E3%82%8A%E5%90%88%E3%81%88%E3%81%B0%E7%A6%8F%E3%81%A8%E3%81%AA%E3%82%8B%E2%99%AA)",
+    "local_image": "images/018_SSR Matikanefukukitaru (袖振り合えば福となる♪).webp"
+  },
+  {
+    "name": "SSR Tosen Jordan (In my way)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30084_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Tosen_Jordan_(In_my_way)",
+    "local_image": "images/019_SSR Tosen Jordan (In my way).webp"
+  },
+  {
+    "name": "SSR Narita Top Road (桃色のバックショット)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30086_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Narita_Top_Road_(%E6%A1%83%E8%89%B2%E3%81%AE%E3%83%90%E3%83%83%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88)",
+    "local_image": "images/020_SSR Narita Top Road (桃色のバックショット).webp"
+  },
+  {
+    "name": "SSR Air Shakur (mag!c number)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30092_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Air_Shakur_(mag!c_number)",
+    "local_image": "images/021_SSR Air Shakur (mag!c number).webp"
+  },
+  {
+    "name": "SSR Seeking the Pearl (そのエールは世界を変えた)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30095_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Seeking_the_Pearl_(%E3%81%9D%E3%81%AE%E3%82%A8%E3%83%BC%E3%83%AB%E3%81%AF%E4%B8%96%E7%95%8C%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F)",
+    "local_image": "images/022_SSR Seeking the Pearl (そのエールは世界を変えた).webp"
+  },
+  {
+    "name": "SSR Agnes Tachyon (Q≠0)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30101_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Agnes_Tachyon_(Q%E2%89%A00)",
+    "local_image": "images/023_SSR Agnes Tachyon (Q≠0).webp"
+  },
+  {
+    "name": "SSR Maruzensky (おセンチ注意報♪)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30107_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Maruzensky_(%E3%81%8A%E3%82%BB%E3%83%B3%E3%83%81%E6%B3%A8%E6%84%8F%E5%A0%B1%E2%99%AA)",
+    "local_image": "images/024_SSR Maruzensky (おセンチ注意報♪).webp"
+  },
+  {
+    "name": "SSR Daitaku Helios (お日さま天使ちゃん♪)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30116_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Daitaku_Helios_(%E3%81%8A%E6%97%A5%E3%81%95%E3%81%BE%E5%A4%A9%E4%BD%BF%E3%81%A1%E3%82%83%E3%82%93%E2%99%AA)",
+    "local_image": "images/025_SSR Daitaku Helios (お日さま天使ちゃん♪).webp"
+  },
+  {
+    "name": "SSR Mejiro Ardan (夜風に舞うは祈りの花)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30119_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Mejiro_Ardan_(%E5%A4%9C%E9%A2%A8%E3%81%AB%E8%88%9E%E3%81%86%E3%81%AF%E7%A5%88%E3%82%8A%E3%81%AE%E8%8A%B1)",
+    "local_image": "images/026_SSR Mejiro Ardan (夜風に舞うは祈りの花).webp"
+  },
+  {
+    "name": "SSR Mihono Bourbon (U & Me)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30121_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Mihono_Bourbon_(U_%26_Me)",
+    "local_image": "images/027_SSR Mihono Bourbon (U & Me).webp"
+  },
+  {
+    "name": "SSR Eishin Flash (Danke schön)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30122_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Eishin_Flash_(Danke_sch%C3%B6n)",
+    "local_image": "images/028_SSR Eishin Flash (Danke schön).webp"
+  },
+  {
+    "name": "SSR Marvelous Sunday (マーベラス☆ショコラSHOW)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30131_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Marvelous_Sunday_(%E3%83%9E%E3%83%BC%E3%83%99%E3%83%A9%E3%82%B9%E2%98%86%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9SHOW)",
+    "local_image": "images/029_SSR Marvelous Sunday (マーベラス☆ショコラSHOW).webp"
+  },
+  {
+    "name": "SSR Katsuragi Ace (掲げよ、燃え盛る灯を)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30135_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Katsuragi_Ace_(%E6%8E%B2%E3%81%92%E3%82%88%E3%80%81%E7%87%83%E3%81%88%E7%9B%9B%E3%82%8B%E7%81%AF%E3%82%92)",
+    "local_image": "images/030_SSR Katsuragi Ace (掲げよ、燃え盛る灯を).webp"
+  },
+  {
+    "name": "SSR Tokai Teio (比翼のワルツ)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30140_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Tokai_Teio_(%E6%AF%94%E7%BF%BC%E3%81%AE%E3%83%AF%E3%83%AB%E3%83%84)",
+    "local_image": "images/031_SSR Tokai Teio (比翼のワルツ).webp"
+  },
+  {
+    "name": "SSR Jungle Pocket (The frontier)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30147_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Jungle_Pocket_(The_frontier)",
+    "local_image": "images/032_SSR Jungle Pocket (The frontier).webp"
+  },
+  {
+    "name": "SSR Mejiro Palmer (カモメのように)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30154_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Mejiro_Palmer_(%E3%82%AB%E3%83%A2%E3%83%A1%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB)",
+    "local_image": "images/033_SSR Mejiro Palmer (カモメのように).webp"
+  },
+  {
+    "name": "SSR Air Groove (Seaside Bloom)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30159_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Air_Groove_(Seaside_Bloom)",
+    "local_image": "images/034_SSR Air Groove (Seaside Bloom).webp"
+  },
+  {
+    "name": "SSR El Condor Pasa (大望は飛んでいく)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30161_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_El_Condor_Pasa_(%E5%A4%A7%E6%9C%9B%E3%81%AF%E9%A3%9B%E3%82%93%E3%81%A7%E3%81%84%E3%81%8F)",
+    "local_image": "images/035_SSR El Condor Pasa (大望は飛んでいく).webp"
+  },
+  {
+    "name": "SSR Fine Motion (Hello my clover)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30167_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Fine_Motion_(Hello_my_clover)",
+    "local_image": "images/036_SSR Fine Motion (Hello my clover).webp"
+  },
+  {
+    "name": "SSR Gold Ship (波をかきわけ夢がゆく)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30168_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Gold_Ship_(%E6%B3%A2%E3%82%92%E3%81%8B%E3%81%8D%E3%82%8F%E3%81%91%E5%A4%A2%E3%81%8C%E3%82%86%E3%81%8F)",
+    "local_image": "images/037_SSR Gold Ship (波をかきわけ夢がゆく).webp"
+  },
+  {
+    "name": "SSR Mejiro Dober (聖夜、変わるために)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30174_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Mejiro_Dober_(%E8%81%96%E5%A4%9C%E3%80%81%E5%A4%89%E3%82%8F%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB)",
+    "local_image": "images/038_SSR Mejiro Dober (聖夜、変わるために).webp"
+  },
+  {
+    "name": "SSR Duramente (血脈の胎動)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30178_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Duramente_(%E8%A1%80%E8%84%88%E3%81%AE%E8%83%8E%E5%8B%95)",
+    "local_image": "images/039_SSR Duramente (血脈の胎動).webp"
+  },
+  {
+    "name": "SSR Sakura Bakushin O (感謝感謝！サクラ吹雪！！)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30184_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Sakura_Bakushin_O_(%E6%84%9F%E8%AC%9D%E6%84%9F%E8%AC%9D%EF%BC%81%E3%82%B5%E3%82%AF%E3%83%A9%E5%90%B9%E9%9B%AA%EF%BC%81%EF%BC%81)",
+    "local_image": "images/040_SSR Sakura Bakushin O (感謝感謝！サクラ吹雪！！).webp"
+  },
+  {
+    "name": "SSR Gentildonna (Balliamo?)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30186_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Gentildonna_(Balliamo%3F)",
+    "local_image": "images/041_SSR Gentildonna (Balliamo_).webp"
+  },
+  {
+    "name": "SSR Vivlos (とっておきのレヴェランス)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30192_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Vivlos_(%E3%81%A8%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%8D%E3%81%AE%E3%83%AC%E3%83%B4%E3%82%A7%E3%83%A9%E3%83%B3%E3%82%B9)",
+    "local_image": "images/042_SSR Vivlos (とっておきのレヴェランス).webp"
+  },
+  {
+    "name": "SSR Yamanin Zephyr (浚いの風)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30196_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Yamanin_Zephyr_(%E6%B5%9A%E3%81%84%E3%81%AE%E9%A2%A8)",
+    "local_image": "images/043_SSR Yamanin Zephyr (浚いの風).webp"
+  },
+  {
+    "name": "SSR Verxina (紺碧の戴冠式)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30205_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Verxina_(%E7%B4%BA%E7%A2%A7%E3%81%AE%E6%88%B4%E5%86%A0%E5%BC%8F)",
+    "local_image": "images/044_SSR Verxina (紺碧の戴冠式).webp"
+  },
+  {
+    "name": "SSR Vivlos (アルストロメリアの夢)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30206_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Vivlos_(%E3%82%A2%E3%83%AB%E3%82%B9%E3%83%88%E3%83%AD%E3%83%A1%E3%83%AA%E3%82%A2%E3%81%AE%E5%A4%A2)",
+    "local_image": "images/045_SSR Vivlos (アルストロメリアの夢).webp"
+  },
+  {
+    "name": "SSR Smart Falcon (波間のオフショット)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30210_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Smart_Falcon_(%E6%B3%A2%E9%96%93%E3%81%AE%E3%82%AA%E3%83%95%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88)",
+    "local_image": "images/046_SSR Smart Falcon (波間のオフショット).webp"
+  },
+  {
+    "name": "SSR Tokai Teio (開催☆ハチャメチャGP！)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30213_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Tokai_Teio_(%E9%96%8B%E5%82%AC%E2%98%86%E3%83%8F%E3%83%81%E3%83%A3%E3%83%A1%E3%83%81%E3%83%A3GP%EF%BC%81)",
+    "local_image": "images/047_SSR Tokai Teio (開催☆ハチャメチャGP！).webp"
+  },
+  {
+    "name": "SSR Still in Love (Devilish Whispers)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30215_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Still_in_Love_(Devilish_Whispers)",
+    "local_image": "images/048_SSR Still in Love (Devilish Whispers).webp"
+  },
+  {
+    "name": "SSR Narita Brian (咆哮のアポヤンド)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30224_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Narita_Brian_(%E5%92%86%E5%93%AE%E3%81%AE%E3%82%A2%E3%83%9D%E3%83%A4%E3%83%B3%E3%83%89)",
+    "local_image": "images/049_SSR Narita Brian (咆哮のアポヤンド).webp"
+  },
+  {
+    "name": "SSR Meisho Doto (不屈の遠吠え)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30230_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Meisho_Doto_(%E4%B8%8D%E5%B1%88%E3%81%AE%E9%81%A0%E5%90%A0%E3%81%88)",
+    "local_image": "images/050_SSR Meisho Doto (不屈の遠吠え).webp"
+  },
+  {
+    "name": "SSR Maruzensky (ふりさけみれば天花のわらう)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30235_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Maruzensky_(%E3%81%B5%E3%82%8A%E3%81%95%E3%81%91%E3%81%BF%E3%82%8C%E3%81%B0%E5%A4%A9%E8%8A%B1%E3%81%AE%E3%82%8F%E3%82%89%E3%81%86)",
+    "local_image": "images/051_SSR Maruzensky (ふりさけみれば天花のわらう).webp"
+  },
+  {
+    "name": "SSR Seeking the Pearl (飛び立つヴィーナス)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30236_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Seeking_the_Pearl_(%E9%A3%9B%E3%81%B3%E7%AB%8B%E3%81%A4%E3%83%B4%E3%82%A3%E3%83%BC%E3%83%8A%E3%82%B9)",
+    "local_image": "images/052_SSR Seeking the Pearl (飛び立つヴィーナス).webp"
+  },
+  {
+    "name": "SSR Almond Eye (世界を変える眼差し)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30242_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Almond_Eye_(%E4%B8%96%E7%95%8C%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B%E7%9C%BC%E5%B7%AE%E3%81%97)",
+    "local_image": "images/053_SSR Almond Eye (世界を変える眼差し).webp"
+  },
+  {
+    "name": "SSR Dream Journey (誘うは夢心地)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30246_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Dream_Journey_(%E8%AA%98%E3%81%86%E3%81%AF%E5%A4%A2%E5%BF%83%E5%9C%B0)",
+    "local_image": "images/054_SSR Dream Journey (誘うは夢心地).webp"
+  },
+  {
+    "name": "SSR Symboli Kris S (Operation: Escort)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30247_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Symboli_Kris_S_(Operation:_Escort)",
+    "local_image": "images/055_SSR Symboli Kris S (Operation_ Escort).webp"
+  },
+  {
+    "name": "SSR Rhein Kraft (Unveiled Dream)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30253_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Rhein_Kraft_(Unveiled_Dream)",
+    "local_image": "images/056_SSR Rhein Kraft (Unveiled Dream).webp"
+  },
+  {
+    "name": "SSR Fusaichi Pandora (ゼッタイ☆天才伝説)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30259_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Fusaichi_Pandora_(%E3%82%BC%E3%83%83%E3%82%BF%E3%82%A4%E2%98%86%E5%A4%A9%E6%89%8D%E4%BC%9D%E8%AA%AC)",
+    "local_image": "images/057_SSR Fusaichi Pandora (ゼッタイ☆天才伝説).webp"
+  },
+  {
+    "name": "SSR Mejiro McQueen (グレイッシュPARTY☆)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30260_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Mejiro_McQueen_(%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%83%E3%82%B7%E3%83%A5PARTY%E2%98%86)",
+    "local_image": "images/058_SSR Mejiro McQueen (グレイッシュPARTY☆).webp"
+  },
+  {
+    "name": "SSR Admire Groove (氷結晶の静域)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30265_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Admire_Groove_(%E6%B0%B7%E7%B5%90%E6%99%B6%E3%81%AE%E9%9D%99%E5%9F%9F)",
+    "local_image": "images/059_SSR Admire Groove (氷結晶の静域).webp"
+  },
+  {
+    "name": "SSR Gold Ship (Breakaway Battleship)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30004_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Gold_Ship_(Breakaway_Battleship)",
+    "local_image": "images/060_SSR Gold Ship (Breakaway Battleship).webp"
+  },
+  {
+    "name": "SSR Seiun Sky (Foolproof Plan)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30008_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Seiun_Sky_(Foolproof_Plan)",
+    "local_image": "images/061_SSR Seiun Sky (Foolproof Plan).webp"
+  },
+  {
+    "name": "SSR Tamamo Cross (Split the Sky, White Lightning!)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30009_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Tamamo_Cross_(Split_the_Sky,_White_Lightning!)",
+    "local_image": "images/062_SSR Tamamo Cross (Split the Sky, White Lightning!).webp"
+  },
+  {
+    "name": "SSR Super Creek (Piece of Mind)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30016_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Super_Creek_(Piece_of_Mind)",
+    "local_image": "images/063_SSR Super Creek (Piece of Mind).webp"
+  },
+  {
+    "name": "SSR Mejiro McQueen (Your Team Ace)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30022_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Mejiro_McQueen_(Your_Team_Ace)",
+    "local_image": "images/064_SSR Mejiro McQueen (Your Team Ace).webp"
+  },
+  {
+    "name": "SSR Rice Shower (Showered in Joy)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30023_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Rice_Shower_(Showered_in_Joy)",
+    "local_image": "images/065_SSR Rice Shower (Showered in Joy).webp"
+  },
+  {
+    "name": "SSR Satono Diamond (The Will to Overtake)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30029_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Satono_Diamond_(The_Will_to_Overtake)",
+    "local_image": "images/066_SSR Satono Diamond (The Will to Overtake).webp"
+  },
+  {
+    "name": "SSR Sakura Chiyono O (Peak Sakura Season)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30038_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Sakura_Chiyono_O_(Peak_Sakura_Season)",
+    "local_image": "images/067_SSR Sakura Chiyono O (Peak Sakura Season).webp"
+  },
+  {
+    "name": "SSR Nakayama Festa (43、8、1)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30043_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Nakayama_Festa_(43%E3%80%818%E3%80%811)",
+    "local_image": "images/068_SSR Nakayama Festa (43、8、1).webp"
+  },
+  {
+    "name": "SSR Winning Ticket (Full-Blown Tantrum)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30046_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Winning_Ticket_(Full-Blown_Tantrum)",
+    "local_image": "images/069_SSR Winning Ticket (Full-Blown Tantrum).webp"
+  },
+  {
+    "name": "SSR Mihono Bourbon (Fugue of Fortune)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30059_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Mihono_Bourbon_(Fugue_of_Fortune)",
+    "local_image": "images/070_SSR Mihono Bourbon (Fugue of Fortune).webp"
+  },
+  {
+    "name": "SSR Silence Suzuka (Winning Dream)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30062_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Silence_Suzuka_(Winning_Dream)",
+    "local_image": "images/071_SSR Silence Suzuka (Winning Dream).webp"
+  },
+  {
+    "name": "SSR Narita Brian (天嗤う鏑矢)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30069_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Narita_Brian_(%E5%A4%A9%E5%97%A4%E3%81%86%E9%8F%91%E7%9F%A2)",
+    "local_image": "images/072_SSR Narita Brian (天嗤う鏑矢).webp"
+  },
+  {
+    "name": "SSR Manhattan Cafe (独奏・螺旋追走曲)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30075_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Manhattan_Cafe_(%E7%8B%AC%E5%A5%8F%E3%83%BB%E8%9E%BA%E6%97%8B%E8%BF%BD%E8%B5%B0%E6%9B%B2)",
+    "local_image": "images/073_SSR Manhattan Cafe (独奏・螺旋追走曲).webp"
+  },
+  {
+    "name": "SSR Meisho Doto (飛びも出でぬべき心地すれ)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30079_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Meisho_Doto_(%E9%A3%9B%E3%81%B3%E3%82%82%E5%87%BA%E3%81%A7%E3%81%AC%E3%81%B9%E3%81%8D%E5%BF%83%E5%9C%B0%E3%81%99%E3%82%8C)",
+    "local_image": "images/074_SSR Meisho Doto (飛びも出でぬべき心地すれ).webp"
+  },
+  {
+    "name": "SSR Mejiro Bright (リトル・バイ・リトル)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30087_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Mejiro_Bright_(%E3%83%AA%E3%83%88%E3%83%AB%E3%83%BB%E3%83%90%E3%82%A4%E3%83%BB%E3%83%AA%E3%83%88%E3%83%AB)",
+    "local_image": "images/075_SSR Mejiro Bright (リトル・バイ・リトル).webp"
+  },
+  {
+    "name": "SSR Symboli Rudolf (Enchaînement)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30090_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Symboli_Rudolf_(Encha%C3%AEnement)",
+    "local_image": "images/076_SSR Symboli Rudolf (Enchaînement).webp"
+  },
+  {
+    "name": "SSR Ikuno Dictus (愛すべき金蘭のつどい)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30099_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Ikuno_Dictus_(%E6%84%9B%E3%81%99%E3%81%B9%E3%81%8D%E9%87%91%E8%98%AD%E3%81%AE%E3%81%A4%E3%81%A9%E3%81%84)",
+    "local_image": "images/077_SSR Ikuno Dictus (愛すべき金蘭のつどい).webp"
+  },
+  {
+    "name": "SSR Zenno Rob Roy (『ロードナイトと夢の石』)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30104_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Zenno_Rob_Roy_(%E3%80%8E%E3%83%AD%E3%83%BC%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88%E3%81%A8%E5%A4%A2%E3%81%AE%E7%9F%B3%E3%80%8F)",
+    "local_image": "images/078_SSR Zenno Rob Roy (『ロードナイトと夢の石』).webp"
+  },
+  {
+    "name": "SSR Manhattan Cafe (It's on the house.)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30110_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Manhattan_Cafe_(It%27s_on_the_house.)",
+    "local_image": "images/079_SSR Manhattan Cafe (It's on the house.webp"
+  },
+  {
+    "name": "SSR Biwa Hayahide (ユークロニア・アーキテクト)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30113_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Biwa_Hayahide_(%E3%83%A6%E3%83%BC%E3%82%AF%E3%83%AD%E3%83%8B%E3%82%A2%E3%83%BB%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%88)",
+    "local_image": "images/080_SSR Biwa Hayahide (ユークロニア・アーキテクト).webp"
+  },
+  {
+    "name": "SSR Mejiro Palmer (月下の悪魔ちゃん♪)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30115_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Mejiro_Palmer_(%E6%9C%88%E4%B8%8B%E3%81%AE%E6%82%AA%E9%AD%94%E3%81%A1%E3%82%83%E3%82%93%E2%99%AA)",
+    "local_image": "images/081_SSR Mejiro Palmer (月下の悪魔ちゃん♪).webp"
+  },
+  {
+    "name": "SSR Symboli Kris S (A Win Foreshadowed)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30118_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Symboli_Kris_S_(A_Win_Foreshadowed)",
+    "local_image": "images/082_SSR Symboli Kris S (A Win Foreshadowed).webp"
+  },
+  {
+    "name": "SSR Sakura Laurel (ここからはDon't stop!)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30125_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Sakura_Laurel_(%E3%81%93%E3%81%93%E3%81%8B%E3%82%89%E3%81%AFDon%27t_stop!)",
+    "local_image": "images/083_SSR Sakura Laurel (ここからはDon't stop!).webp"
+  },
+  {
+    "name": "SSR Special Week (ハネ退け魔を退け願い込め)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30127_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Special_Week_(%E3%83%8F%E3%83%8D%E9%80%80%E3%81%91%E9%AD%94%E3%82%92%E9%80%80%E3%81%91%E9%A1%98%E3%81%84%E8%BE%BC%E3%82%81)",
+    "local_image": "images/084_SSR Special Week (ハネ退け魔を退け願い込め).webp"
+  },
+  {
+    "name": "SSR Mejiro McQueen (心、夜風にさらわれて)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30139_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Mejiro_McQueen_(%E5%BF%83%E3%80%81%E5%A4%9C%E9%A2%A8%E3%81%AB%E3%81%95%E3%82%89%E3%82%8F%E3%82%8C%E3%81%A6)",
+    "local_image": "images/085_SSR Mejiro McQueen (心、夜風にさらわれて).webp"
+  },
+  {
+    "name": "SSR Sakura Laurel (刻下、桜花爛漫)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30142_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Sakura_Laurel_(%E5%88%BB%E4%B8%8B%E3%80%81%E6%A1%9C%E8%8A%B1%E7%88%9B%E6%BC%AB)",
+    "local_image": "images/086_SSR Sakura Laurel (刻下、桜花爛漫).webp"
+  },
+  {
+    "name": "SSR Vodka (ハート・イグニッション！！)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30150_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Vodka_(%E3%83%8F%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A4%E3%82%B0%E3%83%8B%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%81%EF%BC%81)",
+    "local_image": "images/087_SSR Vodka (ハート・イグニッション！！).webp"
+  },
+  {
+    "name": "SSR Admire Vega (Precious☆Moments)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30162_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Admire_Vega_(Precious%E2%98%86Moments)",
+    "local_image": "images/088_SSR Admire Vega (Precious☆Moments).webp"
+  },
+  {
+    "name": "SSR Tanino Gimlet (フォルトゥーナの喝采)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30165_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Tanino_Gimlet_(%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88%E3%82%A5%E3%83%BC%E3%83%8A%E3%81%AE%E5%96%9D%E9%87%87)",
+    "local_image": "images/089_SSR Tanino Gimlet (フォルトゥーナの喝采).webp"
+  },
+  {
+    "name": "SSR Sounds of Earth (大地と我らのアンサンブル)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30173_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Sounds_of_Earth_(%E5%A4%A7%E5%9C%B0%E3%81%A8%E6%88%91%E3%82%89%E3%81%AE%E3%82%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%96%E3%83%AB)",
+    "local_image": "images/090_SSR Sounds of Earth (大地と我らのアンサンブル).webp"
+  },
+  {
+    "name": "SSR Twin Turbo (ウタエミンナノ)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30181_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Twin_Turbo_(%E3%82%A6%E3%82%BF%E3%82%A8%E3%83%9F%E3%83%B3%E3%83%8A%E3%83%8E)",
+    "local_image": "images/091_SSR Twin Turbo (ウタエミンナノ).webp"
+  },
+  {
+    "name": "SSR Hokko Tarumae (白い翼は舞い戻りて)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30182_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Hokko_Tarumae_(%E7%99%BD%E3%81%84%E7%BF%BC%E3%81%AF%E8%88%9E%E3%81%84%E6%88%BB%E3%82%8A%E3%81%A6)",
+    "local_image": "images/092_SSR Hokko Tarumae (白い翼は舞い戻りて).webp"
+  },
+  {
+    "name": "SSR Duramente (激情のピッツィカ)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30190_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Duramente_(%E6%BF%80%E6%83%85%E3%81%AE%E3%83%94%E3%83%83%E3%83%84%E3%82%A3%E3%82%AB)",
+    "local_image": "images/093_SSR Duramente (激情のピッツィカ).webp"
+  },
+  {
+    "name": "SSR Cheval Grand (Over the Ocean)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30193_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Cheval_Grand_(Over_the_Ocean)",
+    "local_image": "images/094_SSR Cheval Grand (Over the Ocean).webp"
+  },
+  {
+    "name": "SSR Hishi Miracle (わーく・あ・みらくる！)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30199_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Hishi_Miracle_(%E3%82%8F%E3%83%BC%E3%81%8F%E3%83%BB%E3%81%82%E3%83%BB%E3%81%BF%E3%82%89%E3%81%8F%E3%82%8B%EF%BC%81)",
+    "local_image": "images/095_SSR Hishi Miracle (わーく・あ・みらくる！).webp"
+  },
+  {
+    "name": "SSR Dantsu Flame (そして幕は上がる)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30209_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Dantsu_Flame_(%E3%81%9D%E3%81%97%E3%81%A6%E5%B9%95%E3%81%AF%E4%B8%8A%E3%81%8C%E3%82%8B)",
+    "local_image": "images/096_SSR Dantsu Flame (そして幕は上がる).webp"
+  },
+  {
+    "name": "SSR Wonder Acute (あの夏のキリトリ線)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30212_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Wonder_Acute_(%E3%81%82%E3%81%AE%E5%A4%8F%E3%81%AE%E3%82%AD%E3%83%AA%E3%83%88%E3%83%AA%E7%B7%9A)",
+    "local_image": "images/097_SSR Wonder Acute (あの夏のキリトリ線).webp"
+  },
+  {
+    "name": "SSR Satono Diamond (今日もたのしく、おいしく。)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30221_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Satono_Diamond_(%E4%BB%8A%E6%97%A5%E3%82%82%E3%81%9F%E3%81%AE%E3%81%97%E3%81%8F%E3%80%81%E3%81%8A%E3%81%84%E3%81%97%E3%81%8F%E3%80%82)",
+    "local_image": "images/098_SSR Satono Diamond (今日もたのしく、おいしく。).webp"
+  },
+  {
+    "name": "SSR Air Shakur (Cocoon)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30226_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Air_Shakur_(Cocoon)",
+    "local_image": "images/099_SSR Air Shakur (Cocoon).webp"
+  },
+  {
+    "name": "SSR Nice Nature (これきり、特別ですよ？)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30239_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Nice_Nature_(%E3%81%93%E3%82%8C%E3%81%8D%E3%82%8A%E3%80%81%E7%89%B9%E5%88%A5%E3%81%A7%E3%81%99%E3%82%88%EF%BC%9F)",
+    "local_image": "images/100_SSR Nice Nature (これきり、特別ですよ？).webp"
+  },
+  {
+    "name": "SSR Jungle Pocket (『最強は俺だ！！』)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30240_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Jungle_Pocket_(%E3%80%8E%E6%9C%80%E5%BC%B7%E3%81%AF%E4%BF%BA%E3%81%A0%EF%BC%81%EF%BC%81%E3%80%8F)",
+    "local_image": "images/101_SSR Jungle Pocket (『最強は俺だ！！』).webp"
+  },
+  {
+    "name": "SSR Mejiro Bright (春、来たれり)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30244_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Mejiro_Bright_(%E6%98%A5%E3%80%81%E6%9D%A5%E3%81%9F%E3%82%8C%E3%82%8A)",
+    "local_image": "images/102_SSR Mejiro Bright (春、来たれり).webp"
+  },
+  {
+    "name": "SSR Mejiro Ryan (瞳に闘志を胸に勝利の渇望を)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30258_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Mejiro_Ryan_(%E7%9E%B3%E3%81%AB%E9%97%98%E5%BF%97%E3%82%92%E8%83%B8%E3%81%AB%E5%8B%9D%E5%88%A9%E3%81%AE%E6%B8%87%E6%9C%9B%E3%82%92)",
+    "local_image": "images/103_SSR Mejiro Ryan (瞳に闘志を胸に勝利の渇望を).webp"
+  },
+  {
+    "name": "SSR Duramente (Tranquillo)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30262_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Duramente_(Tranquillo)",
+    "local_image": "images/104_SSR Duramente (Tranquillo).webp"
+  },
+  {
+    "name": "SSR Vodka (Wild Rider)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30005_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Vodka_(Wild_Rider)",
+    "local_image": "images/105_SSR Vodka (Wild Rider).webp"
+  },
+  {
+    "name": "SSR El Condor Pasa (Champion's Passion)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30007_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_El_Condor_Pasa_(Champion%27s_Passion)",
+    "local_image": "images/106_SSR El Condor Pasa (Champion's Passion).webp"
+  },
+  {
+    "name": "SSR Smart Falcon (My Umadol Way! ☆)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30017_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Smart_Falcon_(My_Umadol_Way!_%E2%98%86)",
+    "local_image": "images/107_SSR Smart Falcon (My Umadol Way! ☆).webp"
+  },
+  {
+    "name": "SSR Oguri Cap (Get Lots of Hugs for Me)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30024_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Oguri_Cap_(Get_Lots_of_Hugs_for_Me)",
+    "local_image": "images/108_SSR Oguri Cap (Get Lots of Hugs for Me).webp"
+  },
+  {
+    "name": "SSR Yaeno Muteki (Fiery Discipline)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30032_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Yaeno_Muteki_(Fiery_Discipline)",
+    "local_image": "images/109_SSR Yaeno Muteki (Fiery Discipline).webp"
+  },
+  {
+    "name": "SSR Winning Ticket (Dreams Do Come True!)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30033_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Winning_Ticket_(Dreams_Do_Come_True!)",
+    "local_image": "images/110_SSR Winning Ticket (Dreams Do Come True!).webp"
+  },
+  {
+    "name": "SSR Rice Shower (Happiness Just around the Bend)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30034_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Rice_Shower_(Happiness_Just_around_the_Bend)",
+    "local_image": "images/111_SSR Rice Shower (Happiness Just around the Bend).webp"
+  },
+  {
+    "name": "SSR Bamboo Memory (Head-on Fight!)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30042_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Bamboo_Memory_(Head-on_Fight!)",
+    "local_image": "images/112_SSR Bamboo Memory (Head-on Fight!).webp"
+  },
+  {
+    "name": "SSR Daiwa Scarlet (Mini☆Vacation)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30047_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Daiwa_Scarlet_(Mini%E2%98%86Vacation)",
+    "local_image": "images/113_SSR Daiwa Scarlet (Mini☆Vacation).webp"
+  },
+  {
+    "name": "SSR King Halo (Tonight, We Waltz)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30056_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_King_Halo_(Tonight,_We_Waltz)",
+    "local_image": "images/114_SSR King Halo (Tonight, We Waltz).webp"
+  },
+  {
+    "name": "SSR Tokai Teio (Regal Racers)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30058_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Tokai_Teio_(Regal_Racers)",
+    "local_image": "images/115_SSR Tokai Teio (Regal Racers).webp"
+  },
+  {
+    "name": "SSR Tamamo Cross (やったれハロウィンナイト！)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30064_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Tamamo_Cross_(%E3%82%84%E3%81%A3%E3%81%9F%E3%82%8C%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%8A%E3%82%A4%E3%83%88%EF%BC%81)",
+    "local_image": "images/116_SSR Tamamo Cross (やったれハロウィンナイト！).webp"
+  },
+  {
+    "name": "SSR Daitaku Helios (おどれ・さわげ・フェスれ！)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30071_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Daitaku_Helios_(%E3%81%8A%E3%81%A9%E3%82%8C%E3%83%BB%E3%81%95%E3%82%8F%E3%81%92%E3%83%BB%E3%83%95%E3%82%A7%E3%82%B9%E3%82%8C%EF%BC%81)",
+    "local_image": "images/117_SSR Daitaku Helios (おどれ・さわげ・フェスれ！).webp"
+  },
+  {
+    "name": "SSR Marvelous Sunday (スノウクリスタル・デイ)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30074_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Marvelous_Sunday_(%E3%82%B9%E3%83%8E%E3%82%A6%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%AB%E3%83%BB%E3%83%87%E3%82%A4)",
+    "local_image": "images/118_SSR Marvelous Sunday (スノウクリスタル・デイ).webp"
+  },
+  {
+    "name": "SSR Admire Vega (夜に暁、空に瑞星)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30077_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Admire_Vega_(%E5%A4%9C%E3%81%AB%E6%9A%81%E3%80%81%E7%A9%BA%E3%81%AB%E7%91%9E%E6%98%9F)",
+    "local_image": "images/119_SSR Admire Vega (夜に暁、空に瑞星).webp"
+  },
+  {
+    "name": "SSR Agnes Digital (そこに“いる”幸せ)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30085_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Agnes_Digital_(%E3%81%9D%E3%81%93%E3%81%AB%E2%80%9C%E3%81%84%E3%82%8B%E2%80%9D%E5%B9%B8%E3%81%9B)",
+    "local_image": "images/120_SSR Agnes Digital (そこに“いる”幸せ).webp"
+  },
+  {
+    "name": "SSR Daiwa Scarlet (Outfit as No.1)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30093_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Daiwa_Scarlet_(Outfit_as_No.1)",
+    "local_image": "images/121_SSR Daiwa Scarlet (Outfit as No.webp"
+  },
+  {
+    "name": "SSR Kawakami Princess (フレフレ☆プリンセス！)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30096_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Kawakami_Princess_(%E3%83%95%E3%83%AC%E3%83%95%E3%83%AC%E2%98%86%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%EF%BC%81)",
+    "local_image": "images/122_SSR Kawakami Princess (フレフレ☆プリンセス！).webp"
+  },
+  {
+    "name": "SSR Haru Urara (うららか・ぱっしょん♪)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30098_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Haru_Urara_(%E3%81%86%E3%82%89%E3%82%89%E3%81%8B%E3%83%BB%E3%81%B1%E3%81%A3%E3%81%97%E3%82%87%E3%82%93%E2%99%AA)",
+    "local_image": "images/123_SSR Haru Urara (うららか・ぱっしょん♪).webp"
+  },
+  {
+    "name": "SSR Air Groove (理想へ向かう青嵐)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30106_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Air_Groove_(%E7%90%86%E6%83%B3%E3%81%B8%E5%90%91%E3%81%8B%E3%81%86%E9%9D%92%E5%B5%90)",
+    "local_image": "images/124_SSR Air Groove (理想へ向かう青嵐).webp"
+  },
+  {
+    "name": "SSR Daiichi Ruby (嗚呼華麗ナル一族)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30114_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Daiichi_Ruby_(%E5%97%9A%E5%91%BC%E8%8F%AF%E9%BA%97%E3%83%8A%E3%83%AB%E4%B8%80%E6%97%8F)",
+    "local_image": "images/125_SSR Daiichi Ruby (嗚呼華麗ナル一族).webp"
+  },
+  {
+    "name": "SSR Narita Brian (GLAD TIDINGS)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30123_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Narita_Brian_(GLAD_TIDINGS)",
+    "local_image": "images/126_SSR Narita Brian (GLAD TIDINGS).webp"
+  },
+  {
+    "name": "SSR Grass Wonder (遥か流るる冬夏青青)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30129_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Grass_Wonder_(%E9%81%A5%E3%81%8B%E6%B5%81%E3%82%8B%E3%82%8B%E5%86%AC%E5%A4%8F%E9%9D%92%E9%9D%92)",
+    "local_image": "images/127_SSR Grass Wonder (遥か流るる冬夏青青).webp"
+  },
+  {
+    "name": "SSR Biko Pegasus (変身！ギャルソンフォーム！)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30132_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Biko_Pegasus_(%E5%A4%89%E8%BA%AB%EF%BC%81%E3%82%AE%E3%83%A3%E3%83%AB%E3%82%BD%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%EF%BC%81)",
+    "local_image": "images/128_SSR Biko Pegasus (変身！ギャルソンフォーム！).webp"
+  },
+  {
+    "name": "SSR Nice Nature (今は瞳を閉じないで)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30138_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Nice_Nature_(%E4%BB%8A%E3%81%AF%E7%9E%B3%E3%82%92%E9%96%89%E3%81%98%E3%81%AA%E3%81%84%E3%81%A7)",
+    "local_image": "images/129_SSR Nice Nature (今は瞳を閉じないで).webp"
+  },
+  {
+    "name": "SSR Ikuno Dictus (たどり着いた景色)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30143_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Ikuno_Dictus_(%E3%81%9F%E3%81%A9%E3%82%8A%E7%9D%80%E3%81%84%E3%81%9F%E6%99%AF%E8%89%B2)",
+    "local_image": "images/130_SSR Ikuno Dictus (たどり着いた景色).webp"
+  },
+  {
+    "name": "SSR Tanino Gimlet (Welcome to Umayuru)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30145_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Tanino_Gimlet_(Welcome_to_Umayuru)",
+    "local_image": "images/131_SSR Tanino Gimlet (Welcome to Umayuru).webp"
+  },
+  {
+    "name": "SSR Mayano Top Gun (Chill chill night*)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30151_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Mayano_Top_Gun_(Chill_chill_night*)",
+    "local_image": "images/132_SSR Mayano Top Gun (Chill chill night_).webp"
+  },
+  {
+    "name": "SSR Wonder Acute (ライフロング・ワンダー)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30156_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Wonder_Acute_(%E3%83%A9%E3%82%A4%E3%83%95%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC)",
+    "local_image": "images/133_SSR Wonder Acute (ライフロング・ワンダー).webp"
+  },
+  {
+    "name": "SSR Hishi Amazon (炎々、闘志を抱き)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30164_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Hishi_Amazon_(%E7%82%8E%E3%80%85%E3%80%81%E9%97%98%E5%BF%97%E3%82%92%E6%8A%B1%E3%81%8D)",
+    "local_image": "images/134_SSR Hishi Amazon (炎々、闘志を抱き).webp"
+  },
+  {
+    "name": "SSR Tsurumaru Tsuyoshi (天より遣われし微笑み)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30169_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Tsurumaru_Tsuyoshi_(%E5%A4%A9%E3%82%88%E3%82%8A%E9%81%A3%E3%82%8F%E3%82%8C%E3%81%97%E5%BE%AE%E7%AC%91%E3%81%BF)",
+    "local_image": "images/135_SSR Tsurumaru Tsuyoshi (天より遣われし微笑み).webp"
+  },
+  {
+    "name": "SSR Haru Urara (ああ、楽しや、楽しや！)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30171_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Haru_Urara_(%E3%81%82%E3%81%82%E3%80%81%E6%A5%BD%E3%81%97%E3%82%84%E3%80%81%E6%A5%BD%E3%81%97%E3%82%84%EF%BC%81)",
+    "local_image": "images/136_SSR Haru Urara (ああ、楽しや、楽しや！).webp"
+  },
+  {
+    "name": "SSR Mejiro Ramonu (冬溶かす熾火)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30175_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Mejiro_Ramonu_(%E5%86%AC%E6%BA%B6%E3%81%8B%E3%81%99%E7%86%BE%E7%81%AB)",
+    "local_image": "images/137_SSR Mejiro Ramonu (冬溶かす熾火).webp"
+  },
+  {
+    "name": "SSR Winning Ticket (小さな笑顔、2つ)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30183_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Winning_Ticket_(%E5%B0%8F%E3%81%95%E3%81%AA%E7%AC%91%E9%A1%94%E3%80%812%E3%81%A4)",
+    "local_image": "images/138_SSR Winning Ticket (小さな笑顔、2つ).webp"
+  },
+  {
+    "name": "SSR Sounds of Earth (ブリッランテな旋律を君と)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30191_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Sounds_of_Earth_(%E3%83%96%E3%83%AA%E3%83%83%E3%83%A9%E3%83%B3%E3%83%86%E3%81%AA%E6%97%8B%E5%BE%8B%E3%82%92%E5%90%9B%E3%81%A8)",
+    "local_image": "images/139_SSR Sounds of Earth (ブリッランテな旋律を君と).webp"
+  },
+  {
+    "name": "SSR K.S.Miracle (白い鳥のアラベスク)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30195_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_K.S.Miracle_(%E7%99%BD%E3%81%84%E9%B3%A5%E3%81%AE%E3%82%A2%E3%83%A9%E3%83%99%E3%82%B9%E3%82%AF)",
+    "local_image": "images/140_SSR K.S.webp"
+  },
+  {
+    "name": "SSR Bamboo Memory (Burning!!)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30197_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Bamboo_Memory_(Burning!!)",
+    "local_image": "images/141_SSR Bamboo Memory (Burning!!).webp"
+  },
+  {
+    "name": "SSR Jungle Pocket (新時代を開く者)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30203_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Jungle_Pocket_(%E6%96%B0%E6%99%82%E4%BB%A3%E3%82%92%E9%96%8B%E3%81%8F%E8%80%85)",
+    "local_image": "images/142_SSR Jungle Pocket (新時代を開く者).webp"
+  },
+  {
+    "name": "SSR Seiun Sky (幸福の匂いにまどろむ)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30204_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Seiun_Sky_(%E5%B9%B8%E7%A6%8F%E3%81%AE%E5%8C%82%E3%81%84%E3%81%AB%E3%81%BE%E3%81%A9%E3%82%8D%E3%82%80)",
+    "local_image": "images/143_SSR Seiun Sky (幸福の匂いにまどろむ).webp"
+  },
+  {
+    "name": "SSR Nishino Flower (朝焼け苺の畑にて)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30208_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Nishino_Flower_(%E6%9C%9D%E7%84%BC%E3%81%91%E8%8B%BA%E3%81%AE%E7%95%91%E3%81%AB%E3%81%A6)",
+    "local_image": "images/144_SSR Nishino Flower (朝焼け苺の畑にて).webp"
+  },
+  {
+    "name": "SSR Espoir City (KNOCK 'EM DOWN!)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30222_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Espoir_City_(KNOCK_%27EM_DOWN!)",
+    "local_image": "images/145_SSR Espoir City (KNOCK 'EM DOWN!).webp"
+  },
+  {
+    "name": "SSR Symboli Kris S (COOL⇔CRAZY/Buddy)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30228_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Symboli_Kris_S_(COOL%E2%87%94CRAZY/Buddy)",
+    "local_image": "images/146_SSR Symboli Kris S (COOL⇔CRAZY_Buddy).webp"
+  },
+  {
+    "name": "SSR T.M. Opera O (王を統べて覇す者)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30231_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_T.M._Opera_O_(%E7%8E%8B%E3%82%92%E7%B5%B1%E3%81%B9%E3%81%A6%E8%A6%87%E3%81%99%E8%80%85)",
+    "local_image": "images/147_SSR T.M.webp"
+  },
+  {
+    "name": "SSR Mejiro Ardan (深窓の少女へ)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30234_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Mejiro_Ardan_(%E6%B7%B1%E7%AA%93%E3%81%AE%E5%B0%91%E5%A5%B3%E3%81%B8)",
+    "local_image": "images/148_SSR Mejiro Ardan (深窓の少女へ).webp"
+  },
+  {
+    "name": "SSR Gran Alegria (NEW TALES AWAIT)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30243_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Gran_Alegria_(NEW_TALES_AWAIT)",
+    "local_image": "images/149_SSR Gran Alegria (NEW TALES AWAIT).webp"
+  },
+  {
+    "name": "SSR Vodka (Ballroom Tempest)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30245_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Vodka_(Ballroom_Tempest)",
+    "local_image": "images/150_SSR Vodka (Ballroom Tempest).webp"
+  },
+  {
+    "name": "SSR Buena Vista (Luz de ensueño)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30250_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Buena_Vista_(Luz_de_ensue%C3%B1o)",
+    "local_image": "images/151_SSR Buena Vista (Luz de ensueño).webp"
+  },
+  {
+    "name": "SSR Tamamo Cross (白き稲妻の如く)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30256_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Tamamo_Cross_(%E7%99%BD%E3%81%8D%E7%A8%B2%E5%A6%BB%E3%81%AE%E5%A6%82%E3%81%8F)",
+    "local_image": "images/152_SSR Tamamo Cross (白き稲妻の如く).webp"
+  },
+  {
+    "name": "SSR Vivlos (極上スマイルはっし～ん♪)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30263_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Vivlos_(%E6%A5%B5%E4%B8%8A%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB%E3%81%AF%E3%81%A3%E3%81%97%EF%BD%9E%E3%82%93%E2%99%AA)",
+    "local_image": "images/153_SSR Vivlos (極上スマイルはっし～ん♪).webp"
+  },
+  {
+    "name": "SSR Special Week (The Brightest Star in Japan!)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30001_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Special_Week_(The_Brightest_Star_in_Japan!)",
+    "local_image": "images/154_SSR Special Week (The Brightest Star in Japan!).webp"
+  },
+  {
+    "name": "SSR Grass Wonder (Fairest Fleur)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30006_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Grass_Wonder_(Fairest_Fleur)",
+    "local_image": "images/155_SSR Grass Wonder (Fairest Fleur).webp"
+  },
+  {
+    "name": "SSR Ines Fujin (Watch My Star Fly!)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30011_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Ines_Fujin_(Watch_My_Star_Fly!)",
+    "local_image": "images/156_SSR Ines Fujin (Watch My Star Fly!).webp"
+  },
+  {
+    "name": "SSR Winning Ticket (BNWinner!)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30012_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Winning_Ticket_(BNWinner!)",
+    "local_image": "images/157_SSR Winning Ticket (BNWinner!).webp"
+  },
+  {
+    "name": "SSR Haru Urara (Urara's Day Off!)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30019_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Haru_Urara_(Urara%27s_Day_Off!)",
+    "local_image": "images/158_SSR Haru Urara (Urara's Day Off!).webp"
+  },
+  {
+    "name": "SSR Mejiro Palmer (Go Ahead and Laugh)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30027_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Mejiro_Palmer_(Go_Ahead_and_Laugh)",
+    "local_image": "images/159_SSR Mejiro Palmer (Go Ahead and Laugh).webp"
+  },
+  {
+    "name": "SSR Matikanetannhauser (Just Keep Going)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30030_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Matikanetannhauser_(Just_Keep_Going)",
+    "local_image": "images/160_SSR Matikanetannhauser (Just Keep Going).webp"
+  },
+  {
+    "name": "SSR Symboli Rudolf (絶対皇帝)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30037_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Symboli_Rudolf_(%E7%B5%B6%E5%AF%BE%E7%9A%87%E5%B8%9D)",
+    "local_image": "images/161_SSR Symboli Rudolf (絶対皇帝).webp"
+  },
+  {
+    "name": "SSR Hishi Akebono (Who Wants the First Bite?)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30040_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Hishi_Akebono_(Who_Wants_the_First_Bite%3F)",
+    "local_image": "images/162_SSR Hishi Akebono (Who Wants the First Bite_).webp"
+  },
+  {
+    "name": "SSR Mejiro Ryan (Winning Pitch)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30048_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Mejiro_Ryan_(Winning_Pitch)",
+    "local_image": "images/163_SSR Mejiro Ryan (Winning Pitch).webp"
+  },
+  {
+    "name": "SSR Twin Turbo (Constellation of Stars)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30060_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Twin_Turbo_(Constellation_of_Stars)",
+    "local_image": "images/164_SSR Twin Turbo (Constellation of Stars).webp"
+  },
+  {
+    "name": "SSR Ikuno Dictus (心と足元は温かく)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30063_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Ikuno_Dictus_(%E5%BF%83%E3%81%A8%E8%B6%B3%E5%85%83%E3%81%AF%E6%B8%A9%E3%81%8B%E3%81%8F)",
+    "local_image": "images/165_SSR Ikuno Dictus (心と足元は温かく).webp"
+  },
+  {
+    "name": "SSR Yukino Bijin (宵照らす奉納舞)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30070_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Yukino_Bijin_(%E5%AE%B5%E7%85%A7%E3%82%89%E3%81%99%E5%A5%89%E7%B4%8D%E8%88%9E)",
+    "local_image": "images/166_SSR Yukino Bijin (宵照らす奉納舞).webp"
+  },
+  {
+    "name": "SSR Sakura Bakushin O (爆速！最速！花あらし！)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30083_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Sakura_Bakushin_O_(%E7%88%86%E9%80%9F%EF%BC%81%E6%9C%80%E9%80%9F%EF%BC%81%E8%8A%B1%E3%81%82%E3%82%89%E3%81%97%EF%BC%81)",
+    "local_image": "images/167_SSR Sakura Bakushin O (爆速！最速！花あらし！).webp"
+  },
+  {
+    "name": "SSR Marvelous Sunday (世界にもっと☆マーベラス)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30089_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Marvelous_Sunday_(%E4%B8%96%E7%95%8C%E3%81%AB%E3%82%82%E3%81%A3%E3%81%A8%E2%98%86%E3%83%9E%E3%83%BC%E3%83%99%E3%83%A9%E3%82%B9)",
+    "local_image": "images/168_SSR Marvelous Sunday (世界にもっと☆マーベラス).webp"
+  },
+  {
+    "name": "SSR Bamboo Memory (届け、このオモイ！)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30094_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Bamboo_Memory_(%E5%B1%8A%E3%81%91%E3%80%81%E3%81%93%E3%81%AE%E3%82%AA%E3%83%A2%E3%82%A4%EF%BC%81)",
+    "local_image": "images/169_SSR Bamboo Memory (届け、このオモイ！).webp"
+  },
+  {
+    "name": "SSR El Condor Pasa (キラキラカケル∞)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30102_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_El_Condor_Pasa_(%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9%E3%82%AB%E3%82%B1%E3%83%AB%E2%88%9E)",
+    "local_image": "images/170_SSR El Condor Pasa (キラキラカケル∞).webp"
+  },
+  {
+    "name": "SSR Special Week (私たちと夢、掴みましょう！)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30105_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Special_Week_(%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%A8%E5%A4%A2%E3%80%81%E6%8E%B4%E3%81%BF%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%EF%BC%81)",
+    "local_image": "images/171_SSR Special Week (私たちと夢、掴みましょう！).webp"
+  },
+  {
+    "name": "SSR Sakura Chiyono O (チョベリグ心あれば桜心)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30109_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Sakura_Chiyono_O_(%E3%83%81%E3%83%A7%E3%83%99%E3%83%AA%E3%82%B0%E5%BF%83%E3%81%82%E3%82%8C%E3%81%B0%E6%A1%9C%E5%BF%83)",
+    "local_image": "images/172_SSR Sakura Chiyono O (チョベリグ心あれば桜心).webp"
+  },
+  {
+    "name": "SSR Twin Turbo (TT Ignition!)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30112_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Twin_Turbo_(TT_Ignition!)",
+    "local_image": "images/173_SSR Twin Turbo (TT Ignition!).webp"
+  },
+  {
+    "name": "SSR Shinko Windy (とびだせ！恐怖の魔王軍)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30117_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Shinko_Windy_(%E3%81%A8%E3%81%B3%E3%81%A0%E3%81%9B%EF%BC%81%E6%81%90%E6%80%96%E3%81%AE%E9%AD%94%E7%8E%8B%E8%BB%8D)",
+    "local_image": "images/174_SSR Shinko Windy (とびだせ！恐怖の魔王軍).webp"
+  },
+  {
+    "name": "SSR Yaeno Muteki (天まで焦がせ祈りの火)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30120_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Yaeno_Muteki_(%E5%A4%A9%E3%81%BE%E3%81%A7%E7%84%A6%E3%81%8C%E3%81%9B%E7%A5%88%E3%82%8A%E3%81%AE%E7%81%AB)",
+    "local_image": "images/175_SSR Yaeno Muteki (天まで焦がせ祈りの火).webp"
+  },
+  {
+    "name": "SSR Yamanin Zephyr (誰も知らない風へ)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30126_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Yamanin_Zephyr_(%E8%AA%B0%E3%82%82%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E9%A2%A8%E3%81%B8)",
+    "local_image": "images/176_SSR Yamanin Zephyr (誰も知らない風へ).webp"
+  },
+  {
+    "name": "SSR K.S.Miracle (To you)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30130_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_K.S.Miracle_(To_you)",
+    "local_image": "images/177_SSR K.S.webp"
+  },
+  {
+    "name": "SSR Symboli Kris S (Unyielding resolve)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30136_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Symboli_Kris_S_(Unyielding_resolve)",
+    "local_image": "images/178_SSR Symboli Kris S (Unyielding resolve).webp"
+  },
+  {
+    "name": "SSR Daiwa Scarlet (Something Blue)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30148_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Daiwa_Scarlet_(Something_Blue)",
+    "local_image": "images/179_SSR Daiwa Scarlet (Something Blue).webp"
+  },
+  {
+    "name": "SSR Gold City (優しい月)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30153_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Gold_City_(%E5%84%AA%E3%81%97%E3%81%84%E6%9C%88)",
+    "local_image": "images/180_SSR Gold City (優しい月).webp"
+  },
+  {
+    "name": "SSR Jungle Pocket (トばすぜホットサマー！)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30158_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Jungle_Pocket_(%E3%83%88%E3%81%B0%E3%81%99%E3%81%9C%E3%83%9B%E3%83%83%E3%83%88%E3%82%B5%E3%83%9E%E3%83%BC%EF%BC%81)",
+    "local_image": "images/181_SSR Jungle Pocket (トばすぜホットサマー！).webp"
+  },
+  {
+    "name": "SSR Tap Dance City (高らかにYO-HO!)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30166_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Tap_Dance_City_(%E9%AB%98%E3%82%89%E3%81%8B%E3%81%ABYO-HO!)",
+    "local_image": "images/182_SSR Tap Dance City (高らかにYO-HO!).webp"
+  },
+  {
+    "name": "SSR King Halo (我が舞、巡りて)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30170_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_King_Halo_(%E6%88%91%E3%81%8C%E8%88%9E%E3%80%81%E5%B7%A1%E3%82%8A%E3%81%A6)",
+    "local_image": "images/183_SSR King Halo (我が舞、巡りて).webp"
+  },
+  {
+    "name": "SSR Mejiro Ryan (選んで選んで、想いを込めて)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30176_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Mejiro_Ryan_(%E9%81%B8%E3%82%93%E3%81%A7%E9%81%B8%E3%82%93%E3%81%A7%E3%80%81%E6%83%B3%E3%81%84%E3%82%92%E8%BE%BC%E3%82%81%E3%81%A6)",
+    "local_image": "images/184_SSR Mejiro Ryan (選んで選んで、想いを込めて).webp"
+  },
+  {
+    "name": "SSR Vivlos (会心のウイニングスマイル)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30177_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Vivlos_(%E4%BC%9A%E5%BF%83%E3%81%AE%E3%82%A6%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB)",
+    "local_image": "images/185_SSR Vivlos (会心のウイニングスマイル).webp"
+  },
+  {
+    "name": "SSR Orfevre (只、君臨す。)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30187_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Orfevre_(%E5%8F%AA%E3%80%81%E5%90%9B%E8%87%A8%E3%81%99%E3%80%82)",
+    "local_image": "images/186_SSR Orfevre (只、君臨す。).webp"
+  },
+  {
+    "name": "SSR Kitasan Black (2人のバウンス・シャッセ)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30189_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Kitasan_Black_(2%E4%BA%BA%E3%81%AE%E3%83%90%E3%82%A6%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%B7%E3%83%A3%E3%83%83%E3%82%BB)",
+    "local_image": "images/187_SSR Kitasan Black (2人のバウンス・シャッセ).webp"
+  },
+  {
+    "name": "SSR Rhein Kraft (ティアラが描くレイライン)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30194_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Rhein_Kraft_(%E3%83%86%E3%82%A3%E3%82%A2%E3%83%A9%E3%81%8C%E6%8F%8F%E3%81%8F%E3%83%AC%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%B3)",
+    "local_image": "images/188_SSR Rhein Kraft (ティアラが描くレイライン).webp"
+  },
+  {
+    "name": "SSR No Reason (大胆不敵の兵よ)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30200_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_No_Reason_(%E5%A4%A7%E8%83%86%E4%B8%8D%E6%95%B5%E3%81%AE%E5%85%B5%E3%82%88)",
+    "local_image": "images/189_SSR No Reason (大胆不敵の兵よ).webp"
+  },
+  {
+    "name": "SSR Vodka (明日のライド・オン)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30202_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Vodka_(%E6%98%8E%E6%97%A5%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%89%E3%83%BB%E3%82%AA%E3%83%B3)",
+    "local_image": "images/190_SSR Vodka (明日のライド・オン).webp"
+  },
+  {
+    "name": "SSR Fine Motion (歴史も美食も余すところなく)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30214_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Fine_Motion_(%E6%AD%B4%E5%8F%B2%E3%82%82%E7%BE%8E%E9%A3%9F%E3%82%82%E4%BD%99%E3%81%99%E3%81%A8%E3%81%93%E3%82%8D%E3%81%AA%E3%81%8F)",
+    "local_image": "images/191_SSR Fine Motion (歴史も美食も余すところなく).webp"
+  },
+  {
+    "name": "SSR Buena Vista (我が学び舎へ、愛をこめて)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30216_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Buena_Vista_(%E6%88%91%E3%81%8C%E5%AD%A6%E3%81%B3%E8%88%8E%E3%81%B8%E3%80%81%E6%84%9B%E3%82%92%E3%81%93%E3%82%81%E3%81%A6)",
+    "local_image": "images/192_SSR Buena Vista (我が学び舎へ、愛をこめて).webp"
+  },
+  {
+    "name": "SSR Fuji Kiseki (悩み事かい？ポニーちゃん)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30219_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Fuji_Kiseki_(%E6%82%A9%E3%81%BF%E4%BA%8B%E3%81%8B%E3%81%84%EF%BC%9F%E3%83%9D%E3%83%8B%E3%83%BC%E3%81%A1%E3%82%83%E3%82%93)",
+    "local_image": "images/193_SSR Fuji Kiseki (悩み事かい？ポニーちゃん).webp"
+  },
+  {
+    "name": "SSR Hishi Amazon (牙を立て、リフレイン)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30223_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Hishi_Amazon_(%E7%89%99%E3%82%92%E7%AB%8B%E3%81%A6%E3%80%81%E3%83%AA%E3%83%95%E3%83%AC%E3%82%A4%E3%83%B3)",
+    "local_image": "images/194_SSR Hishi Amazon (牙を立て、リフレイン).webp"
+  },
+  {
+    "name": "SSR Matikanefukukitaru (メークパワートリオ)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30225_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Matikanefukukitaru_(%E3%83%A1%E3%83%BC%E3%82%AF%E3%83%91%E3%83%AF%E3%83%BC%E3%83%88%E3%83%AA%E3%82%AA)",
+    "local_image": "images/195_SSR Matikanefukukitaru (メークパワートリオ).webp"
+  },
+  {
+    "name": "SSR Blast Onepiece (Blast Off!)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30232_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Blast_Onepiece_(Blast_Off!)",
+    "local_image": "images/196_SSR Blast Onepiece (Blast Off!).webp"
+  },
+  {
+    "name": "SSR Curren Chan (Cutest in Ur ♡)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30237_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Curren_Chan_(Cutest_in_Ur_%E2%99%A1)",
+    "local_image": "images/197_SSR Curren Chan (Cutest in Ur ♡).webp"
+  },
+  {
+    "name": "SSR Transcend (繋がれパレード・ノーツ♪)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30249_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Transcend_(%E7%B9%8B%E3%81%8C%E3%82%8C%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%84%E2%99%AA)",
+    "local_image": "images/198_SSR Transcend (繋がれパレード・ノーツ♪).webp"
+  },
+  {
+    "name": "SSR Espoir City (約束のglitter)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30251_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Espoir_City_(%E7%B4%84%E6%9D%9F%E3%81%AEglitter)",
+    "local_image": "images/199_SSR Espoir City (約束のglitter).webp"
+  },
+  {
+    "name": "SSR Silence Suzuka (My Beloved Scenery)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30252_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Silence_Suzuka_(My_Beloved_Scenery)",
+    "local_image": "images/200_SSR Silence Suzuka (My Beloved Scenery).webp"
+  },
+  {
+    "name": "SSR Stay Gold (気まぐれ渡り星)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30264_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Stay_Gold_(%E6%B0%97%E3%81%BE%E3%81%90%E3%82%8C%E6%B8%A1%E3%82%8A%E6%98%9F)",
+    "local_image": "images/201_SSR Stay Gold (気まぐれ渡り星).webp"
+  },
+  {
+    "name": "SSR Fine Motion (Wave of Gratitude)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30010_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Fine_Motion_(Wave_of_Gratitude)",
+    "local_image": "images/202_SSR Fine Motion (Wave of Gratitude).webp"
+  },
+  {
+    "name": "SSR Air Shakur (7 More Centimeters)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30013_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Air_Shakur_(7_More_Centimeters)",
+    "local_image": "images/203_SSR Air Shakur (7 More Centimeters).webp"
+  },
+  {
+    "name": "SSR Yukino Bijin (Hometown Cheers)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30031_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Yukino_Bijin_(Hometown_Cheers)",
+    "local_image": "images/204_SSR Yukino Bijin (Hometown Cheers).webp"
+  },
+  {
+    "name": "SSR Mejiro Dober (My Thoughts, My Desires)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30041_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Mejiro_Dober_(My_Thoughts,_My_Desires)",
+    "local_image": "images/205_SSR Mejiro Dober (My Thoughts, My Desires).webp"
+  },
+  {
+    "name": "SSR Nice Nature (Daring to Dream)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30054_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Nice_Nature_(Daring_to_Dream)",
+    "local_image": "images/206_SSR Nice Nature (Daring to Dream).webp"
+  },
+  {
+    "name": "SSR Seiun Sky (Paint the Sky Red)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30055_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Seiun_Sky_(Paint_the_Sky_Red)",
+    "local_image": "images/207_SSR Seiun Sky (Paint the Sky Red).webp"
+  },
+  {
+    "name": "SSR Biwa Hayahide (Our Resounding Steps)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30061_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Biwa_Hayahide_(Our_Resounding_Steps)",
+    "local_image": "images/208_SSR Biwa Hayahide (Our Resounding Steps).webp"
+  },
+  {
+    "name": "SSR Mihono Bourbon (幽霊さんとハロウィンの魔法)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30066_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Mihono_Bourbon_(%E5%B9%BD%E9%9C%8A%E3%81%95%E3%82%93%E3%81%A8%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%81%AE%E9%AD%94%E6%B3%95)",
+    "local_image": "images/209_SSR Mihono Bourbon (幽霊さんとハロウィンの魔法).webp"
+  },
+  {
+    "name": "SSR Curren Chan (かなし君、うつくし君)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30068_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Curren_Chan_(%E3%81%8B%E3%81%AA%E3%81%97%E5%90%9B%E3%80%81%E3%81%86%E3%81%A4%E3%81%8F%E3%81%97%E5%90%9B)",
+    "local_image": "images/210_SSR Curren Chan (かなし君、うつくし君).webp"
+  },
+  {
+    "name": "SSR Narita Taishin (いじっぱりのマルクト)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30073_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Narita_Taishin_(%E3%81%84%E3%81%98%E3%81%A3%E3%81%B1%E3%82%8A%E3%81%AE%E3%83%9E%E3%83%AB%E3%82%AF%E3%83%88)",
+    "local_image": "images/211_SSR Narita Taishin (いじっぱりのマルクト).webp"
+  },
+  {
+    "name": "SSR Nishino Flower (小さなカップに想いをこめて)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30082_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Nishino_Flower_(%E5%B0%8F%E3%81%95%E3%81%AA%E3%82%AB%E3%83%83%E3%83%97%E3%81%AB%E6%83%B3%E3%81%84%E3%82%92%E3%81%93%E3%82%81%E3%81%A6)",
+    "local_image": "images/212_SSR Nishino Flower (小さなカップに想いをこめて).webp"
+  },
+  {
+    "name": "SSR Satono Diamond (SPECIAL DREAMERS!!)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30088_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Satono_Diamond_(SPECIAL_DREAMERS!!)",
+    "local_image": "images/213_SSR Satono Diamond (SPECIAL DREAMERS!!).webp"
+  },
+  {
+    "name": "SSR Sirius Symboli (Escorte étoile)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30091_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Sirius_Symboli_(Escorte_%C3%A9toile)",
+    "local_image": "images/214_SSR Sirius Symboli (Escorte étoile).webp"
+  },
+  {
+    "name": "SSR Mr. C.B. (Dear Mr. C.B.)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30097_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Mr._C.B._(Dear_Mr._C.B.)",
+    "local_image": "images/215_SSR Mr. C.B. (Dear Mr. C.B.webp"
+  },
+  {
+    "name": "SSR Rice Shower (あこがれの景色)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30100_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Rice_Shower_(%E3%81%82%E3%81%93%E3%81%8C%E3%82%8C%E3%81%AE%E6%99%AF%E8%89%B2)",
+    "local_image": "images/216_SSR Rice Shower (あこがれの景色).webp"
+  },
+  {
+    "name": "SSR Matikanetannhauser (マチタン☆アドベンチャー)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30103_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Matikanetannhauser_(%E3%83%9E%E3%83%81%E3%82%BF%E3%83%B3%E2%98%86%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC)",
+    "local_image": "images/217_SSR Matikanetannhauser (マチタン☆アドベンチャー).webp"
+  },
+  {
+    "name": "SSR Nakayama Festa (一天地六に身を任せ)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30108_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Nakayama_Festa_(%E4%B8%80%E5%A4%A9%E5%9C%B0%E5%85%AD%E3%81%AB%E8%BA%AB%E3%82%92%E4%BB%BB%E3%81%9B)",
+    "local_image": "images/218_SSR Nakayama Festa (一天地六に身を任せ).webp"
+  },
+  {
+    "name": "SSR Tokai Teio (テイオー・オー・オー！！！)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30111_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Tokai_Teio_(%E3%83%86%E3%82%A4%E3%82%AA%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%BC%EF%BC%81%EF%BC%81%EF%BC%81)",
+    "local_image": "images/219_SSR Tokai Teio (テイオー・オー・オー！！！).webp"
+  },
+  {
+    "name": "SSR Air Groove (Are you merry?)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30124_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Air_Groove_(Are_you_merry%3F)",
+    "local_image": "images/220_SSR Air Groove (Are you merry_).webp"
+  },
+  {
+    "name": "SSR Sweep Tosho (気まぐれ絶佳)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30128_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Sweep_Tosho_(%E6%B0%97%E3%81%BE%E3%81%90%E3%82%8C%E7%B5%B6%E4%BD%B3)",
+    "local_image": "images/221_SSR Sweep Tosho (気まぐれ絶佳).webp"
+  },
+  {
+    "name": "SSR Hishi Akebono (フォンデンテで笑って)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30133_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Hishi_Akebono_(%E3%83%95%E3%82%A9%E3%83%B3%E3%83%87%E3%83%B3%E3%83%86%E3%81%A7%E7%AC%91%E3%81%A3%E3%81%A6)",
+    "local_image": "images/222_SSR Hishi Akebono (フォンデンテで笑って).webp"
+  },
+  {
+    "name": "SSR Mejiro Ramonu (燦爛)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30134_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Mejiro_Ramonu_(%E7%87%A6%E7%88%9B)",
+    "local_image": "images/223_SSR Mejiro Ramonu (燦爛).webp"
+  },
+  {
+    "name": "SSR Mihono Bourbon (ミッション『心の栄養補給』)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30141_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Mihono_Bourbon_(%E3%83%9F%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%8E%E5%BF%83%E3%81%AE%E6%A0%84%E9%A4%8A%E8%A3%9C%E7%B5%A6%E3%80%8F)",
+    "local_image": "images/224_SSR Mihono Bourbon (ミッション『心の栄養補給』).webp"
+  },
+  {
+    "name": "SSR Oguri Cap (駆けよ、駆けよ、駆けよ！！)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30146_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Oguri_Cap_(%E9%A7%86%E3%81%91%E3%82%88%E3%80%81%E9%A7%86%E3%81%91%E3%82%88%E3%80%81%E9%A7%86%E3%81%91%E3%82%88%EF%BC%81%EF%BC%81)",
+    "local_image": "images/225_SSR Oguri Cap (駆けよ、駆けよ、駆けよ！！).webp"
+  },
+  {
+    "name": "SSR Aston Machan (オートクチュール・メモリー)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30149_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Aston_Machan_(%E3%82%AA%E3%83%BC%E3%83%88%E3%82%AF%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC)",
+    "local_image": "images/226_SSR Aston Machan (オートクチュール・メモリー).webp"
+  },
+  {
+    "name": "SSR T.M. Opera O (All'alba vincerò!)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30152_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_T.M._Opera_O_(All%27alba_vincer%C3%B2!)",
+    "local_image": "images/227_SSR T.M.webp"
+  },
+  {
+    "name": "SSR Daitaku Helios (＃夏 ＃新しい自分)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30155_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Daitaku_Helios_(%EF%BC%83%E5%A4%8F_%EF%BC%83%E6%96%B0%E3%81%97%E3%81%84%E8%87%AA%E5%88%86)",
+    "local_image": "images/228_SSR Daitaku Helios (＃夏 ＃新しい自分).webp"
+  },
+  {
+    "name": "SSR Manhattan Cafe (君と見る泡沫)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30157_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Manhattan_Cafe_(%E5%90%9B%E3%81%A8%E8%A6%8B%E3%82%8B%E6%B3%A1%E6%B2%AB)",
+    "local_image": "images/229_SSR Manhattan Cafe (君と見る泡沫).webp"
+  },
+  {
+    "name": "SSR Nakayama Festa (鉄火場に咲く菫)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30163_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Nakayama_Festa_(%E9%89%84%E7%81%AB%E5%A0%B4%E3%81%AB%E5%92%B2%E3%81%8F%E8%8F%AB)",
+    "local_image": "images/230_SSR Nakayama Festa (鉄火場に咲く菫).webp"
+  },
+  {
+    "name": "SSR Mejiro McQueen (かっとばせー！ですわ！？)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30172_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Mejiro_McQueen_(%E3%81%8B%E3%81%A3%E3%81%A8%E3%81%B0%E3%81%9B%E3%83%BC%EF%BC%81%E3%81%A7%E3%81%99%E3%82%8F%EF%BC%81%EF%BC%9F)",
+    "local_image": "images/231_SSR Mejiro McQueen (かっとばせー！ですわ！？).webp"
+  },
+  {
+    "name": "SSR Satono Diamond (百花の願いをこの胸に)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30179_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Satono_Diamond_(%E7%99%BE%E8%8A%B1%E3%81%AE%E9%A1%98%E3%81%84%E3%82%92%E3%81%93%E3%81%AE%E8%83%B8%E3%81%AB)",
+    "local_image": "images/232_SSR Satono Diamond (百花の願いをこの胸に).webp"
+  },
+  {
+    "name": "SSR North Flight (ゴー・ファッショニスタ！)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30185_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_North_Flight_(%E3%82%B4%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8B%E3%82%B9%E3%82%BF%EF%BC%81)",
+    "local_image": "images/233_SSR North Flight (ゴー・ファッショニスタ！).webp"
+  },
+  {
+    "name": "SSR Neo Universe (V.E.R.2285のあなたへ)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30198_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Neo_Universe_(V.E.R.2285%E3%81%AE%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8)",
+    "local_image": "images/234_SSR Neo Universe (V.E.R.webp"
+  },
+  {
+    "name": "SSR Narita Taishin (Take Them Down!)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30201_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Narita_Taishin_(Take_Them_Down!)",
+    "local_image": "images/235_SSR Narita Taishin (Take Them Down!).webp"
+  },
+  {
+    "name": "SSR Copano Rickey (Lucky☆Summertime)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30211_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Copano_Rickey_(Lucky%E2%98%86Summertime)",
+    "local_image": "images/236_SSR Copano Rickey (Lucky☆Summertime).webp"
+  },
+  {
+    "name": "SSR Cesario (慈恵のMother Sea)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30217_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Cesario_(%E6%85%88%E6%81%B5%E3%81%AEMother_Sea)",
+    "local_image": "images/237_SSR Cesario (慈恵のMother Sea).webp"
+  },
+  {
+    "name": "SSR Taiki Shuttle (月下のSunshine)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30218_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Taiki_Shuttle_(%E6%9C%88%E4%B8%8B%E3%81%AESunshine)",
+    "local_image": "images/238_SSR Taiki Shuttle (月下のSunshine).webp"
+  },
+  {
+    "name": "SSR Symboli Kris S (Rewarding Job)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30220_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Symboli_Kris_S_(Rewarding_Job)",
+    "local_image": "images/239_SSR Symboli Kris S (Rewarding Job).webp"
+  },
+  {
+    "name": "SSR Daiwa Scarlet (緋色の君へ風が吹く)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30227_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Daiwa_Scarlet_(%E7%B7%8B%E8%89%B2%E3%81%AE%E5%90%9B%E3%81%B8%E9%A2%A8%E3%81%8C%E5%90%B9%E3%81%8F)",
+    "local_image": "images/240_SSR Daiwa Scarlet (緋色の君へ風が吹く).webp"
+  },
+  {
+    "name": "SSR Agnes Digital (【告知】新刊あります！)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30229_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Agnes_Digital_(%E3%80%90%E5%91%8A%E7%9F%A5%E3%80%91%E6%96%B0%E5%88%8A%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%EF%BC%81)",
+    "local_image": "images/241_SSR Agnes Digital (【告知】新刊あります！).webp"
+  },
+  {
+    "name": "SSR Symboli Rudolf (雲煙飛動)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30233_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Symboli_Rudolf_(%E9%9B%B2%E7%85%99%E9%A3%9B%E5%8B%95)",
+    "local_image": "images/242_SSR Symboli Rudolf (雲煙飛動).webp"
+  },
+  {
+    "name": "SSR Ikuno Dictus (鉄の乙女も微笑んで)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30238_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Ikuno_Dictus_(%E9%89%84%E3%81%AE%E4%B9%99%E5%A5%B3%E3%82%82%E5%BE%AE%E7%AC%91%E3%82%93%E3%81%A7)",
+    "local_image": "images/243_SSR Ikuno Dictus (鉄の乙女も微笑んで).webp"
+  },
+  {
+    "name": "SSR Daring Tact (無垢の白妙)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30248_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Daring_Tact_(%E7%84%A1%E5%9E%A2%E3%81%AE%E7%99%BD%E5%A6%99)",
+    "local_image": "images/244_SSR Daring Tact (無垢の白妙).webp"
+  },
+  {
+    "name": "SSR Daring Heart (Blooming Buds)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30254_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Daring_Heart_(Blooming_Buds)",
+    "local_image": "images/245_SSR Daring Heart (Blooming Buds).webp"
+  },
+  {
+    "name": "SSR Air Messiah (いつか深まる若草)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30255_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Air_Messiah_(%E3%81%84%E3%81%A4%E3%81%8B%E6%B7%B1%E3%81%BE%E3%82%8B%E8%8B%A5%E8%8D%89)",
+    "local_image": "images/246_SSR Air Messiah (いつか深まる若草).webp"
+  },
+  {
+    "name": "SSR Win Variation (水面のプリンシパル)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30261_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Win_Variation_(%E6%B0%B4%E9%9D%A2%E3%81%AE%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B7%E3%83%91%E3%83%AB)",
+    "local_image": "images/247_SSR Win Variation (水面のプリンシパル).webp"
+  },
+  {
+    "name": "SSR Chrono Genesis (この先の未来で)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30266_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Chrono_Genesis_(%E3%81%93%E3%81%AE%E5%85%88%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%81%A7)",
+    "local_image": "images/248_SSR Chrono Genesis (この先の未来で).webp"
+  },
+  {
+    "name": "SSR Hayakawa Tazuna (Tracen Reception)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30021_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Hayakawa_Tazuna_(Tracen_Reception)",
+    "local_image": "images/249_SSR Hayakawa Tazuna (Tracen Reception).webp"
+  },
+  {
+    "name": "SSR Kashimoto Riko (Planned Perfection)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30036_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Kashimoto_Riko_(Planned_Perfection)",
+    "local_image": "images/250_SSR Kashimoto Riko (Planned Perfection).webp"
+  },
+  {
+    "name": "SSR Light Hello (from the GROUND UP)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30052_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Light_Hello_(from_the_GROUND_UP)",
+    "local_image": "images/251_SSR Light Hello (from the GROUND UP).webp"
+  },
+  {
+    "name": "SSR Anshinzawa Sasami (ブスッといっとく？)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30080_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Anshinzawa_Sasami_(%E3%83%96%E3%82%B9%E3%83%83%E3%81%A8%E3%81%84%E3%81%A3%E3%81%A8%E3%81%8F%EF%BC%9F)",
+    "local_image": "images/252_SSR Anshinzawa Sasami (ブスッといっとく？).webp"
+  },
+  {
+    "name": "SSR Satake Mei (L'aubeは迫りて)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30160_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Satake_Mei_(L%27aube%E3%81%AF%E8%BF%AB%E3%82%8A%E3%81%A6)",
+    "local_image": "images/253_SSR Satake Mei (L'aubeは迫りて).webp"
+  },
+  {
+    "name": "SSR Tsurugi Ryoka (共に描くキラメキ)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30188_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Tsurugi_Ryoka_(%E5%85%B1%E3%81%AB%E6%8F%8F%E3%81%8F%E3%82%AD%E3%83%A9%E3%83%A1%E3%82%AD)",
+    "local_image": "images/254_SSR Tsurugi Ryoka (共に描くキラメキ).webp"
+  },
+  {
+    "name": "SSR Director Akikawa (謹製ッ！特大夢にんじん！)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30207_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Director_Akikawa_(%E8%AC%B9%E8%A3%BD%E3%83%83%EF%BC%81%E7%89%B9%E5%A4%A7%E5%A4%A2%E3%81%AB%E3%82%93%E3%81%98%E3%82%93%EF%BC%81)",
+    "local_image": "images/255_SSR Director Akikawa (謹製ッ！特大夢にんじん！).webp"
+  },
+  {
+    "name": "SSR Tucker Bryne (本能は吼えているか！？)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30257_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Tucker_Bryne_(%E6%9C%AC%E8%83%BD%E3%81%AF%E5%90%BC%E3%81%88%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%EF%BC%81%EF%BC%9F)",
+    "local_image": "images/256_SSR Tucker Bryne (本能は吼えているか！？).webp"
+  },
+  {
+    "name": "SSR Symboli Rudolf (尊尚親愛)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30067_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Symboli_Rudolf_(%E5%B0%8A%E5%B0%9A%E8%A6%AA%E6%84%9B)",
+    "local_image": "images/257_SSR Symboli Rudolf (尊尚親愛).webp"
+  },
+  {
+    "name": "SSR Special Week (紡がれてゆく想い)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30081_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Special_Week_(%E7%B4%A1%E3%81%8C%E3%82%8C%E3%81%A6%E3%82%86%E3%81%8F%E6%83%B3%E3%81%84)",
+    "local_image": "images/258_SSR Special Week (紡がれてゆく想い).webp"
+  },
+  {
+    "name": "SSR Darley Arabian (永劫続く栄光へ)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30137_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Darley_Arabian_(%E6%B0%B8%E5%8A%AB%E7%B6%9A%E3%81%8F%E6%A0%84%E5%85%89%E3%81%B8)",
+    "local_image": "images/259_SSR Darley Arabian (永劫続く栄光へ).webp"
+  },
+  {
+    "name": "SSR Kitasan Black (この先も！)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30180_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Kitasan_Black_(%E3%81%93%E3%81%AE%E5%85%88%E3%82%82%EF%BC%81)",
+    "local_image": "images/260_SSR Kitasan Black (この先も！).webp"
+  },
+  {
+    "name": "SSR Speed Symboli (導きの光)",
+    "image": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30241_Card.png&width=200",
+    "link": "https://umamusu.wiki/Game:SSR_Speed_Symboli_(%E5%B0%8E%E3%81%8D%E3%81%AE%E5%85%89)",
+    "local_image": "images/261_SSR Speed Symboli (導きの光).webp"
+  }
+]
